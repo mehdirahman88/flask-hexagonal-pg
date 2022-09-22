@@ -70,7 +70,7 @@ instance/*
 myapi/version.py
 
 # only for this template
-# you may consider removing them for a production project
+# you may consider removing them for a production.py project
 !.flaskenv
 !instance/testing
 
